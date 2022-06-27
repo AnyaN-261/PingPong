@@ -1,0 +1,14 @@
+body
+{
+background-size:cover;
+
+}
+.heading {
+    width:100%;
+}
+.heading button {
+    float: right;
+}
+#start {
+    font-size:22px;
+}
